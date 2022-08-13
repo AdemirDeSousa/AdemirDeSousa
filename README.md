@@ -1,4 +1,4 @@
-## Olá, sou o Ademir de Sousa, um desenvolvedor backend apaixonado por tecnologia e por desafios.
+## Olá, sou o Ademir de Sousa, um desenvolvedor Backend apaixonado por tecnologia.
 
 <div align="center">
   <a href="https://github.com/AdemirDeSousa">
